@@ -1,6 +1,6 @@
 name: davidkelber
 favicon: null
-layout_spectrum: 0.4506610326934606
+layout_spectrum: 0.90099
 typography_spectrum: 0.8670556750148535
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#8b0b0b'
+    - '#8b860b'
+    - '#0b8b7b'
+    - '#3c0b8b'
+    - '#0b688b'
   brandStrength: 0.7334239121992141
   lightness: 0.910222084261477
   saturation: 0.604944635881111

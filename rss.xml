@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Project Genesis]]></title>
         <description><![CDATA[Project Genesis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/davidkelber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 02:14:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 04:09:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/davidkelber/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Training]]></title>
+            <description><![CDATA[<article><h1>Training</h1><p>The blog of Tom Rowland. Father, Husband, Son, Professional fisherman, Television host, Television producer, Athlete, living life with passion. Mental and physical training through SealFit, Goruck Selection and CrossFit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c70653de73740d4a73b2e42112d1e1a204860dc3.jpg"></article>]]></description>
+            <link>http://www.tomrowlandtraining.com/</link>
+            <guid isPermaLink="false">d145833f-302d-4a52-b32b-e8fbaa4f85cd</guid>
+            <pubDate>Sun, 24 Apr 2016 04:08:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p></p>]]></description>
-            <link>undefinede45c4d76-5ce6-4b12-82cb-1ae187ba0aab/index.html</link>
+            <link>https://thegrid.ai/davidkelber/e45c4d76-5ce6-4b12-82cb-1ae187ba0aab/index.html</link>
             <guid isPermaLink="false">e45c4d76-5ce6-4b12-82cb-1ae187ba0aab</guid>
             <pubDate>Sun, 24 Apr 2016 02:14:28 GMT</pubDate>
         </item>
